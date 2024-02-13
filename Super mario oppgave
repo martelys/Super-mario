@@ -1,0 +1,7 @@
+Oppgave: SuPeR mArIo!
+
+For å løse denne oppgaven, trenger du variabler, if/else, onclick
+
+Last ned png bilder av mario,luigi,peach,yoshi og bowser Valgfritt å ta med bilder av (toad) og bowsershroom. Disse skal vises frem som en select character type skjerm Når man klikker på en av de, skal de ut i kamp mot bowser! Da vises bildet av bowser og den valgte karakteren, samt hpn deres Bowser har 300 i hp, mario har 200hp, peach har 100hp, yoshi har 80hp og luigi har 140hp Lag en knapp for bowser til å angripe motstanderen, og en knapp for den valgte karakteren så de kan slå bowser bruk variabler og if - setninger for å sette hvem karakteren er og vise statsene dems slik at du unngår for mange forskjellige metoder
+
+Dersom du har med bildene av soppene kan disse settes ved siden av karakterene i kombat - og regenerere helsen dems. Toad- gir liv til den valgte karakteren, mens bowsershroom regenererer helsen til bowser
